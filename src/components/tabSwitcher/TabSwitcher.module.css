@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    gap: 1rem;
+}
+
+.tabItem {
+    padding: 1rem;
+    cursor: pointer;
+}
+
+.selected {
+    border-bottom: 1px solid green;
+}
